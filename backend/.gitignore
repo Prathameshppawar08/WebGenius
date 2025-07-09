@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# VS Code / IDE folders
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebooks checkpoints (if you ever use them)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS-generated files
+Thumbs.db

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WebGenius</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      width: 300px;
+    }
+    #response-box {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-radius: 5px;
+      min-height: 50px;
+    }
+    #captured-url {
+      color: green;
+      font-size: 0.9em;
+    }
+    #chat-response {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #e8f5e9;
+      border-radius: 5px;
+      min-height: 50px;
+    }
+  </style>
+</head>
+<body>
+  <h3>WebGenius</h3>
+
+  <button id="scrape-btn">Scrape This Page</button>
+  <p><strong>Captured URL:</strong> <span id="captured-url">None</span></p>
+
+  <input type="text" id="user-query" placeholder="Ask something..." style="width:100%; margin-top: 10px;" />
+  <button id="ask-btn" style="margin-top: 5px;">Ask</button>
+
+  <div id="response-box"></div>
+
+  <!-- ✅ Add chatbot output -->
+  <div id="chat-response">🤖 Answer will appear here...</div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
