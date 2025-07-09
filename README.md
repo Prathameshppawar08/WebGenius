@@ -1,27 +1,41 @@
-# 🌐 WebGenius
+# 🌐 WebGenius — Chat With Any Webpage Instantly
 
-**WebGenius** is a smart Chrome Extension + FastAPI-powered tool that allows you to:
+Tired of reading endless research papers, skimming news articles, or finding product details on shopping sites?
 
-🔎 **Scrape any webpage** → 💬 **Ask questions** → 🧠 **Get answers from Perplexity AI**
+**WebGenius** makes it simple:  
+➡️ **Scrape any webpage**  
+➡️ **Ask anything about it**  
+➡️ **Get instant AI-powered answers**
 
-A lightweight, privacy-friendly assistant that runs locally and works on any webpage in your browser.
-
----
-
-## ✨ Features
-
-- 📄 One-click **webpage content scraping**
-- 💬 Instant **question-answering** on scraped data
-- ⚡ Powered by **Perplexity AI** (LLM)
-- 🧱 Built with **FastAPI**, **LangChain**, and **Chrome Extension APIs**
-- ✅ Clean UI, works offline (except API)
+> 🧠 Whether it’s a shopping store, a boring research paper, a trending news article, or a Wikipedia page — WebGenius handles it all.
 
 ---
 
-## 📦 Setup & Installation
+## ✨ What is WebGenius?
 
-### 1. Clone this repository
+**WebGenius** is a Chrome Extension powered by **FastAPI + Perplexity AI** that allows you to:
 
-```bash
-git clone https://github.com/Prathameshppawar08/WebGenius.git
-cd WebGenius
+- 📄 Extract content from any open webpage
+- 💬 Ask intelligent questions about what you just scraped
+- 🧠 Get concise answers using Perplexity's LLM
+- ⚙️ Works locally with just an API key
+
+---
+
+## 🎥 Demo Video
+
+> 📽️ **Watch it in action**: [Demo Video](#)  
+> _(Attach YouTube link or demo GIF in this section when ready)_
+
+---
+
+## 🚀 Features
+
+- 🔍 Scrape text from any webpage in one click
+- 💬 Ask contextual questions and get smart answers
+- 💾 Download the scraped content as a `.txt` file
+- ⚡ Fast, local, and secure (only your question is sent to Perplexity API)
+- 🔑 Works with **just one API key** — no account linking needed
+
+---
+
