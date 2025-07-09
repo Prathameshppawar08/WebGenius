@@ -24,7 +24,7 @@ Tired of reading endless research papers, skimming news articles, or finding pro
 
 ## 🎥 Demo Video
 
-> 📽️ **Watch it in action**: [Demo Video](#)  
+> 📽️ **Watch it in action**: [https://github.com/Prathameshppawar08/WebGenius/blob/main/Demo_On_Amazon.mp4](#)  
 > _(Attach YouTube link or demo GIF in this section when ready)_
 
 ---
